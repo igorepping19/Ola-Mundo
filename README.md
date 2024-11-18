@@ -1,2 +1,4 @@
-# Curso Em Video
- Aula Git e GitHub
+# Olá, Mundo!!!
+ Aula Git e GitHub no Curso em Video
+
+ Repositório criado durante aulas
